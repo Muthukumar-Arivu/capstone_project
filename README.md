@@ -10,4 +10,7 @@ Step 1: Download the file<br></br>
 Step 2: Extract the file<br></br>
 Step3 : Double click the below file name<h3>Complaint-System-Main</h3>
 </body>
+<footer>
+    Copyright @Muthukumar-Arivu
+</footer>
 </html>
