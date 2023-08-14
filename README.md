@@ -6,7 +6,7 @@
     Guvi Capstone Project
 </head>
 <body>
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=muthukumar-arivu&label=Profile%20views&color=0e75b6&style=flat" alt="muthukumar-arivu" /> </p>
+  
     <h1>Complaint Management Project</h1>
 <h4>To run this project, you must installed a Pycharm on your PC (for Windows)</h4>
 Step 1: Download the file<br></br>
