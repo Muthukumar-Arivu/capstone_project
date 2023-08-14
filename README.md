@@ -1,9 +1,9 @@
 # capstone_project
 <html>
 <head>
-  <title>
+
     <h2>Guvi project Complaint Management System Project</h2>
-  </title>
+
 </head>
 <body>
   
