@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Guvi Capstone Project</title>
+    Guvi Capstone Project
 </head>
 <body>
 <h4>To run this project, you must installed a Pycharm on your PC (for Windows)</h4>
