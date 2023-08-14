@@ -2,14 +2,14 @@
 <html>
 <head>
   <title>
-    Guvi project Complaint Management System Project
+    <h2>Guvi project Complaint Management System Project</h2>
   </title>
 </head>
 <body>
   
-<h1>To run this project, you must have installed a Pycharm on your PC (for Windows)</h1>
+<h4>To run this project, you must have installed a Pycharm on your PC (for Windows)</h4>
 Step 1: Download the file
 Step 2: Extract the file
-Step3 : Double click the <h1>Complaint-System-Main</h1>
+Step3 : Double click the <h5>Complaint-System-Main</h5>
 </body>
 </html>
